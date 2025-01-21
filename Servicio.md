@@ -79,13 +79,15 @@ Dimensiones:95x86x70 mm
 ![base reforzado](<imagenes impresas 3d/base reforzada.png>)
 
 <p>
-Llaveros personalizados
+Llaveros personalizados <br>
+$50.00 pesos 
 </p>
 
 ![llaveros personalizados](<imagenes impresas 3d/llaveros personalizados.jpeg>)
 
 <p>
-Carcasas para USB KEY
+Carcasas para USB KEY  <br>
+$50.00 pesos
 </p>
 
 ![alt text](<imagenes impresas 3d/carcasa usb key .png>)
